@@ -1,5 +1,6 @@
 # EAAI24-official-bahnaric-dataset
 This is the official Binh Dinh Bahnaric dataset, used for training mentioned in our paper work
+
 Including:
 
 - ```dictionary``` folder: Containing 13,029 words aligning both the Bahnaric and Vietnamese dictionaries
